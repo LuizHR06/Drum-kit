@@ -70,14 +70,14 @@ export const DrumKit = () => {
                 <p className={classes.sound}>TINK</p>
             </div>
 
-            <audio data-key="a" src="src/assets/sounds/clap.wav"></audio>
-            <audio data-key="s" src="src/assets/sounds/hihat.wav"></audio>
+            <audio data-key="a" src="../../assets/sounds/clap.wav"></audio>
+            <audio data-key="s" src="../../assets/sounds/hihat.wav"></audio>
             <audio data-key="d" src="src/assets/sounds/kick.wav"></audio>
             <audio data-key="f" src="src/assets/sounds/openhat.wav"></audio>
             <audio data-key="g" src="src/assets/sounds/boom.wav"></audio>
             <audio data-key="h" src="src/assets/sounds/ride.wav"></audio>
             <audio data-key="j" src="src/assets/sounds/snare.wav"></audio>
-            <audio data-key="k" src="src/assets/sounds/tom.wav"></audio>
+            <audio data-key="k" src="../../assets/sounds/tom.wav"></audio>
             <audio data-key="l" src="src/assets/sounds/tink.wav"></audio>
         </div>
     )
